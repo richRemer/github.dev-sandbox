@@ -1,2 +1,3 @@
 # github.dev-sandbox
-playing with GitHub.dev
+Playing with GitHub.dev.
+[View GitHub.IO site](https://richRemer.github.io/github.dev-sandbox)
